@@ -1,0 +1,5 @@
+names:
+nc: 0
+path: C:\Users\HANASH WANIS A F\.ipython\my_dataset
+train: train/images
+val: train/images
