@@ -1,0 +1,6 @@
+names:
+- watch
+nc: 1
+path: C:\Users\HANASH WANIS A F\.ipython\hanash_data
+train: train/images
+val: train/images
